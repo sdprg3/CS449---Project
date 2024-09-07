@@ -25,7 +25,7 @@ public class Controller {
 
     @FXML
     void choose_player_type(ActionEvent event) {
-
+        // Method implementation here
     }
 
 }
